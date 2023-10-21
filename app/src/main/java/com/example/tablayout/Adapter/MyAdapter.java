@@ -52,7 +52,7 @@ public class MyAdapter extends FragmentPagerAdapter {  //Alt+Enter
             title = "Call";
         }
 
-        return title;   //return Type title
+        return title;
     }
 
 }
