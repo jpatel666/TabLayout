@@ -56,3 +56,4 @@ public class MyAdapter extends FragmentPagerAdapter {  //Alt+Enter
     }
 
 }
+
